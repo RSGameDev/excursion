@@ -5,12 +5,12 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E9206542-12DA-4775-8C26-52D3281DCFC1}"
 	ProjectSection(SolutionItems) = preProject
-		HTMLPage1.html = HTMLPage1.html
+		index.html = index.html
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "resources", "resources", "{231BA447-252B-4B3E-A8EA-9471B9D27321}"
 	ProjectSection(SolutionItems) = preProject
-		StyleSheet1.css = StyleSheet1.css
+		Style.css = Style.css
 	EndProjectSection
 EndProject
 Global
